@@ -1,0 +1,15 @@
+.hero {
+    background-color: #76B6B6;
+    padding: 70px 0;
+}
+
+.heading {
+    font-weight: bold;
+    color: #DED9C9;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+.img {
+    height: 300px;
+}
